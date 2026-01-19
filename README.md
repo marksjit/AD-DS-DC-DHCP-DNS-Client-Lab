@@ -1,7 +1,7 @@
 # DC-AD DS-DHCP-DNS 
 
 ## Setting up the environment
-+ Installed and configured VirtualBox, Windows Server 2019, Windows 10 clients, and local network infrastructure.
++ Installed and configured VirtualBox, Windows Server 2019, Windows 10 clients, and local network infrastructure. (UPDATE: Deployed the latest Windows Server 2025 and set up the infrastructure following the steps below for up-to-date knowledge.)
 + Configured server names, TCP/IP, domain controller, DHCP scopes, and DNS records.
 
 ## Secondary Domain Controller Deployment
